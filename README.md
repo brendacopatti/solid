@@ -1,4 +1,4 @@
-#S.O.L.I.D: Os 5 princípios da POO
+# S.O.L.I.D: Os 5 princípios da POO
 * **S** — Single Responsiblity Principle (Princípio da responsabilidade única)
 * **O** — Open-Closed Principle (Princípio Aberto-Fechado)
 * **L** — Liskov Substitution Principle (Princípio da substituição de Liskov)
