@@ -1,4 +1,4 @@
-#O — Open-Closed Principle (Princípio Aberto-Fechado)
+# O — Open-Closed Principle (Princípio Aberto-Fechado)
 Esse principio afirma que uma vez que a classe é criada, ela deve estar
 aberta a extensões, mas fechada para modificações.
 Isso significa que, a medida que surjam novos requisitos de regra
