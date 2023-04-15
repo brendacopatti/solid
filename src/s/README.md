@@ -1,4 +1,4 @@
-#S - Single Responsiblity Principle (Princípio da responsabilidade única)
+# S - Single Responsiblity Principle (Princípio da responsabilidade única)
 Esse princípio afirma que a classe deve ter apenas uma responsabilidade.
 
 Um exemplo de violação desse princípio este encontra-se na classe: Funcionario.java <br>
