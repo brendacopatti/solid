@@ -8,7 +8,7 @@ public class Pagamento {
         if (funcionario instanceof Estagiario) {
             return ((Estagiario) funcionario).getBolsa();
         } else {
-            return ((ContratoCLT) funcionario).getSalario();
+            return ((ContratadoCLT) funcionario).getSalario();
         }
     }
 

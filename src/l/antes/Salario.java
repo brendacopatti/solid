@@ -6,8 +6,8 @@ public class Salario {
     public BigDecimal calcula(Funcionario funcionario) {
         if (funcionario instanceof Estagiario) {
             return ((Estagiario) funcionario).getBolsa();
-        } else if (funcionario instanceof ContratoCLT) {
-            return ((ContratoCLT) funcionario).getSalario();
+        } else if (funcionario instanceof ContratadoCLT) {
+            return ((ContratadoCLT) funcionario).getSalario();
         }
         return null;
     }

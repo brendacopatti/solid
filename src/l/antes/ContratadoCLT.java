@@ -1,8 +1,8 @@
-package o.antes;
+package l.antes;
 
 import java.math.BigDecimal;
 
-public class ContratoCLT extends Funcionario {
+public class ContratadoCLT extends Funcionario {
     public BigDecimal getSalario() {
         return new BigDecimal(5000);
     }

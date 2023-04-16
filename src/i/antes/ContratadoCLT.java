@@ -2,7 +2,7 @@ package i.antes;
 
 import java.math.BigDecimal;
 
-public class ContratoCLT implements Remuneracao {
+public class ContratadoCLT implements Remuneracao {
 
     @Override
     public BigDecimal getRemuneracao() {
