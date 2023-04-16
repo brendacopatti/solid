@@ -5,8 +5,9 @@
 * **I** — Interface Segregation Principle (Princípio da Segregação da Interface)
 * **D** — Dependency Inversion Principle (Princípio da inversão da dependência)
 
+----
 
-## Esse projeto visa explicar de forma simples e com exemplos os princípios
+Esse projeto visa explicar de forma simples e com exemplos os princípios
 do S.O.L.I.D.
 Cada um dos pacotes contém a explicação de um dos princípios em um
 arquivo **README.md**, além pelos pacotes **antes** (que possui o 
